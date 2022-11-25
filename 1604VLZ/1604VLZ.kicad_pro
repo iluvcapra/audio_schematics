@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "1604.kicad_pro",
+    "filename": "1604VLZ.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,12 +318,12 @@
   },
   "sheets": [
     [
-      "37e2ec45-dc94-4ac1-8d1f-cb9c69da39e4",
+      "211fa9a0-bfdf-48ec-8fcd-1826bec50401",
       ""
     ],
     [
-      "8d3a2bfb-75d4-46f3-8ca4-13f7768d813c",
-      "Pre-Amplification"
+      "01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124",
+      "1604vlz_Channel_Input"
     ]
   ],
   "text_variables": {}

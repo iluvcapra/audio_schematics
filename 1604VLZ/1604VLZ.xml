@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/jamie/Desktop/1604VLZ/1604VLZ.kicad_sch</source>
+    <date>Wednesday, 16 November 2022 at 23:06:28</date>
+    <tool>Eeschema (6.0.8-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>1604VLZ.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/">
+      <title_block>
+        <title>Mackie 1604VLZ Channel Input Stage</title>
+        <company/>
+        <rev>0</rev>
+        <date>2022-11-16</date>
+        <source>1604vlz_Channel_Input.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>330p</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>3c19d7a8-3cf7-4953-940b-b9c62cfaa536</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47u 50V</value>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>69b2945e-8b6d-4a09-a3eb-47333487e05a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>47u 50V</value>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>5366744a-b9e9-429f-aee0-3dc7ac686477</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47u 25V</value>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>2756692b-0dba-4a96-a609-0715deba9486</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>47u 25V</value>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>ea30a86f-89e3-440a-bfa0-07950a5efa39</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>330p</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>23d79ce9-e3db-4368-90fb-49a27e67edfe</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>330p</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>b9a432f0-93ce-4e19-9d02-fe87bd495301</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>330p</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>ed101e44-4f0a-4bed-abd4-701401a4fcdd</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>470u 10V</value>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>27dd6389-9153-42ed-854d-54bb9272c232</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>330p</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>f5f4fa32-95c6-4ee3-a4c8-91a6d67a4378</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>47u 25V</value>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>9bd6a015-922a-45d3-b71c-eeaa238ac494</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>.1u 16V</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>1ba7ab78-dc23-4292-8c1a-b04b46b4ae45</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>.1u 16V</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>7c8fc900-99c4-4fc4-a434-661d8815b58f</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>DL4148</value>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>25405896-a1a2-4133-be2c-8cf3b8ef5458</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>DL4148</value>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>db228640-a3ea-423c-a3d0-4194c1cdded3</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>XLR</value>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="XLR3" description="XLR Connector, Male or Female, 3 Pins"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>7b75f920-a236-47e2-aae6-b9c16b635e2e</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1/4" PHONO</value>
+      <libsource lib="Connector" part="AudioJack3_SwitchTR" description="Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>facc6844-ce6e-428f-bbc7-d7a497aa601c</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>1/4" PHONO</value>
+      <libsource lib="Connector" part="AudioJack3_SwitchTR" description="Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>60451ccb-06e3-45c3-a48e-66299f808a9c</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2SA1084</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2SA1084" description="-0.15A Ic, -50V Vce, Low Noise Audio PNP Transistor, TO-92"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>e177d1b5-3aa3-49c5-8318-72312d3df9b7</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IMBTA06</value>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>e71243ba-ddc7-4fcd-a144-4734691755ad</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>IMBTA06</value>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>71327a13-4287-47ad-ba30-748693cde5c8</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2SA1084</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="2SA1084" description="-0.15A Ic, -50V Vce, Low Noise Audio PNP Transistor, TO-92"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>a2816ef8-b3ea-4d2a-9697-eecf8a29c29b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>85b7e7e7-9da1-40c4-a650-2f3a01fe61bb</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>a940ae1f-5aab-45b2-9790-648729813950</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>6k81 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>c9116dff-cc66-4293-95c8-5d78ba36085d</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>6k81 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>96d6b695-510f-422d-ab93-9ce38bdca5e3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k 1%</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>aafab1ee-0110-4f23-b6e7-ac8cacb819e8</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k 1%</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>fb693132-10b4-471b-a36f-f7a14bf3fc57</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k30 1%</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>2c3453cc-0950-45e1-86b2-a67cc49fe4f0</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k30 1%</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>9433e7b5-a4c2-4af2-afed-96fd50be0bdd</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>3k92 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>ef147e59-489f-44e2-afc5-9b4df4ccca03</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>510</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>7cddc159-5dd0-4e48-b1ce-0738ecba4368</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>825 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>62424f0b-a857-42cc-8463-f6511204a845</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>2k49 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>1ea0dd44-f740-4d2c-be38-0600493a739f</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2k49 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>f81638fb-1710-4953-8015-083c541c9f8e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>825 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>acb23040-5ab7-4e9f-9af6-2ecabc047b36</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>4.7</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>a9394659-7496-4ca0-9add-1cb1b2610d85</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>510</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>51e9c615-9b82-4b50-9f15-743784d005f0</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>3k92 .25W</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>09dedcd4-f040-427c-82b6-2cea8d10f8de</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>0c33161b-eec5-42c6-b4b1-97ae5d269687</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>120</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>0fed6c5a-445a-4727-b512-ebf082cffb80</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>5kzy</value>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>e21d75bf-19aa-4c5f-b349-c738cb38c81b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>NJM4560</value>
+      <datasheet>http://www.njr.com/semicon/PDF/NJM4560_E.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="NJM4560" description="Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8"/>
+      <property name="Sheetname" value="1604vlz_Channel_Input"/>
+      <property name="Sheetfile" value="File: 1604vlz_Channel_Input.kicad_sch"/>
+      <sheetpath names="/1604vlz_Channel_Input/" tstamps="/01ee2d7c-cc7b-4c6c-9b7e-ec93a4aa1124/"/>
+      <tstamps>4c64d0ad-6676-4864-aa5e-f54e89988501 4560e48f-f32f-4ad4-869e-30d29d3fa87c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="NJM4560">
+      <description>Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8</description>
+      <docs>http://www.njr.com/semicon/PDF/NJM4560_E.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NJM4560</field>
+        <field name="Datasheet">http://www.njr.com/semicon/PDF/NJM4560_E.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack3_SwitchTR">
+      <description>Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack3_SwitchTR</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="R" name="" type="passive"/>
+        <pin num="RN" name="" type="passive"/>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+        <pin num="TN" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="XLR3">
+      <description>XLR Connector, Male or Female, 3 Pins</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>Jack*XLR*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">XLR3</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BEC">
+      <description>NPN transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Small">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2SA1084">
+      <description>-0.15A Ic, -50V Vce, Low Noise Audio PNP Transistor, TO-92</description>
+      <docs>http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2SA1084</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+16VA">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-16VA">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="/1604vlz_Channel_Input/MIC+">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/1604vlz_Channel_Input/MIC-">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="CHAN_INS">
+      <node ref="J3" pin="R" pintype="passive"/>
+      <node ref="J3" pin="TN" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="RN" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="J2" pin="TN" pintype="passive"/>
+      <node ref="J3" pin="S" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J2" pin="T" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J2" pin="R" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J3" pin="RN" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J3-PadT)">
+      <node ref="J3" pin="T" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="PHANTOM">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
